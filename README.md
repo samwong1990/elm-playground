@@ -10,3 +10,5 @@ cabal update
 cabal install cabal-install
 cabal install -j elm-compiler-0.14 elm-package-0.2 elm-make-0.1
 cabal install -j elm-repl-0.4 elm-reactor-0.2.0.1
+
+Demo is on http://htmlpreview.github.io/?https://github.com/samwong1990/elm-playground/blob/master/demo/clickTheScreen.html
